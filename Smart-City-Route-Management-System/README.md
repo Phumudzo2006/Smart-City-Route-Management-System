@@ -1,7 +1,10 @@
 !# Smart City Route Management System
 
 ## Author
-- **Name:** Phumudzo Matshaya    
+- **Name:** Phumudzo Matshaya
+  
+A C++ Smart City Route Management System demonstrating graph algorithms,
+Dijkstra’s shortest path, and explainable AI concepts.
 
 ## Description
 This project is a **Smart City Route Management System** implemented in **C++**.  
@@ -40,3 +43,4 @@ g++ src/SmartCityRouteManagement.cpp -o smart_city
 
 A C++ project that simulates intelligent route planning in a smart city
 using graph algorithms and explainable AI concepts.
+
